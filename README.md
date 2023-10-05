@@ -1,3 +1,3 @@
 # Forexify
 
-View [Project Report](./project-report.pdf) for Complete Documentation
+View [Project Report](https://github.com/Freeman-md/forexify/blob/main/project-report.pdf) for Complete Documentation
